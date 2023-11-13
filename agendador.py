@@ -57,3 +57,4 @@ def exec_agendador():
             
             agendador_tarefa(hora_min)            
 exec_agendador()
+
